@@ -1,7 +1,7 @@
 # POST
 hack-ai POST
 
-1. post_m_c_india_automl.ipynb - блокнот с EDA и предобработкой
-2. - блокнот с моделью
+1. post_eda_ct_final.ipynb - блокнот с EDA и предобработкой
+2. post_model_final- блокнот с моделью
 3. Presentation_post - презентация
-4. - скринкаст
+4. post_screencast - скринкаст
